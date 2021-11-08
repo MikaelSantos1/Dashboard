@@ -1,0 +1,11 @@
+.header-container{
+    width: 100%;
+    display: flex;
+    align-items: baseline;
+}
+.title-header{
+ color: #000;
+}
+.v-header{
+    color: #000;
+}

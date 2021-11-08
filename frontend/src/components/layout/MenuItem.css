@@ -1,0 +1,41 @@
+.MenuItem-container{
+  
+   
+    height: 56px;
+    display:flex;
+    flex-direction: column;
+    overflow: hidden;
+    color:#DDE2FF;
+    margin: 0;
+    padding: 0 20px;
+    cursor: pointer;
+    
+}
+
+ul{
+    list-style: none;
+    width: 100%;
+    height: 56px;
+    padding: 0 ;
+    
+}
+li{
+  display: flex;
+  flex:1;
+  justify-content: space-between;
+}
+.MenuItem-container:hover{
+    background: rgba(159, 162, 180,0.08);
+
+   
+}
+a{
+    text-decoration: none;
+    color:#DDE2FF;
+    
+}
+.iconRight{
+   
+    padding-right:0 20px;
+  
+}

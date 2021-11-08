@@ -1,0 +1,31 @@
+.menu-container{
+    margin-top: 41px;
+   
+    width: 100%;
+   
+    
+}
+.title-container{
+    width: 100%;
+    height: 32px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 63px;
+}
+   
+.menu-title {
+    margin: 0;
+    color: #A4A6B3;
+    font-size: 19px;
+    line-height: 24px;
+    opacity: 0.7;
+    padding: 0 10px;
+}
+  
+
+.iconlabel{
+    font-size: 2em;
+    margin: auto 0;
+    color: rgb(43, 133, 43);
+}
